@@ -7,4 +7,4 @@ Here are some ideas to get you started:
 
 -->
 
-Benching 225 bugs
+Benching 225 bugs.
